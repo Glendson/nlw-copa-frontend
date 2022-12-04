@@ -70,10 +70,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/glendson/nlw-copa-frontend
+$ git clone https://github.com/glendson/nlw-copa-frontend.git
 
 # Access
-$ cd frontend_nlwcopa
+$ cd nlw-copa-frontend
 
 # Install dependencies
 $ yarn
